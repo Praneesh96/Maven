@@ -11,5 +11,8 @@ public class Sample {
 		System.out.println("Installed GITHuB");
 		System.out.println("updated data");
 		System.out.println("sucess");
+		byte a=10;
+		int b=20;
+		int c=a+b;
 	}
 }
