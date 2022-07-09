@@ -8,6 +8,8 @@ public class Sample {
 		
 		
 		System.out.println("Hello maven");
-
+		System.out.println("Installed GITHuB");
+		System.out.println("updated data");
+		System.out.println("sucess");
 	}
 }
